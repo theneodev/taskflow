@@ -1,0 +1,19 @@
+# Local SQLite databases (Keep private & clean)
+*.db
+*.sqlite3
+
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# System & Editor files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

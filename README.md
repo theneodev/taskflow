@@ -14,7 +14,7 @@
   <a href="#-the-origin-story">📖 The Origin</a> •
   <a href="#-key-capabilities">✨ Highlights</a> •
   <a href="#-quick-run">🚀 Quickstart</a> •
-  <a href="#%EF%B8%8F-keyboard-shortcuts">⌨️ Controls</a> •
+  <a href="#%EF%B8%8F-keyboard-shortcuts">⌨️ Controls</a>
 </p>
 
 ---
@@ -84,5 +84,5 @@ Speed through your day without taking your hands off the keyboard:
 
 ### 1️⃣ Clone the Repo
 ```bash
-git clone [https://github.com/theneodev/taskflow.git](https://github.com/theneodev/taskflow.git)
+git clone https://github.com/theneodev/taskflow.git
 cd taskflow

@@ -14,9 +14,7 @@
   <a href="#-the-origin-story">📖 The Origin</a> •
   <a href="#-key-capabilities">✨ Highlights</a> •
   <a href="#-quick-run">🚀 Quickstart</a> •
-  <a href="#-keyboard-shortcuts">⌨️ Controls</a> •
-  <a href="#-architecture">📂 Blueprints</a> •
-  <a href="#-engineer">👨‍💻 Creator</a>
+  <a href="#%EF%B8%8F-keyboard-shortcuts">⌨️ Controls</a> •
 </p>
 
 ---
